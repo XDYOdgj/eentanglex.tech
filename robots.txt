@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://eentanglex.tech/sitemap.xml
